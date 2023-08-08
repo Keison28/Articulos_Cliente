@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(201, 231, 233);
+
+}
+.form-register{
+    
+    
+    width: 400px;
+    background-color: cadetblue  ;
+    padding: 10px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    font-family: 'calibri';
+    color: rgb(70, 116, 113);
+}
+.form-register{
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+
+
+.form-register{
+    height: 50px;
+    text-align: center;
+    font-size: 18px;
+
+}
+.form-register a{
+    color: rgb(38, 177, 158);
+    text-decoration: none;
+}

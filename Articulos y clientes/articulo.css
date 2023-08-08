@@ -1,0 +1,29 @@
+.form-register{
+       
+    width: 400px;
+    background: rgba(126, 255, 175, 0.678);
+    padding: 40px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: rgb(55, 0, 255);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.controls{
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.iulo{
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    
+}
